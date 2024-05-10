@@ -274,3 +274,16 @@ p{
 }
 
 
+.work{
+    font-size: 40px;
+    justify-content:center ;
+    margin-left: 50px;
+}
+
+.works .project{
+    width:1200px;
+    margin-left: 250px;
+}
+.project{
+    margin-top: 30px;
+}
